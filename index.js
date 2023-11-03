@@ -1,3 +1,5 @@
+
+
 const express=require("express");
 const { validate, validateall } = require("./Router/middleware/auth");
 const data=[{"What is Node":"Node is an opensourse crossplatform javascript frontend environment that execute the Javascript code web browser"}]
